@@ -2,12 +2,12 @@
 
   <!-- Hacker Cyber Terminal Banner -->
   <a href="https://kingjboy.tech">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=050811&stroke=00ff66&strokeWidth=2&height=180&section=header&text=%5B%20root%40king-jboy%3A~%23%20whoami%20%5D&fontSize=32&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=MADUABUNA%20JOSIAH%20%7C%20200L%20CYBERSECURITY%20%7C%20ETHICAL%20HACKER&descSize=13&descColor=a7f3d0&descAlignY=62" width="100%" alt="Root Terminal Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=30363d&strokeWidth=1&height=180&section=header&text=%5B%20root%40king-jboy%3A~%23%20whoami%20%5D&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MADUABUNA%20JOSIAH%20%7C%20200L%20CYBERSECURITY%20%7C%20ETHICAL%20HACKER&descSize=13&descColor=8b949e&descAlignY=62" width="100%" alt="Root Terminal Banner" />
   </a>
 
   <!-- Animated Terminal Typing Subtitle -->
   <a href="https://kingjboy.tech">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=42&lines=%24+initiate_handshake+--target+ethical_hacking;%24+whoami+%3A+Maduabuna+Josiah+(King-Jboy);%24+role+%3A+200L+Cybersecurity+Undergraduate+%F0%9F%9B%A1%EF%B8%8F;%24+systems+%3A+Kali+Linux+%7C+Debian+%7C+Arch+%7C+Ubuntu+%F0%9F%90%A7;%24+agentic+%3A+Claude+Code+%E2%80%A2+Antigravity+IDE+%E2%80%A2+DeepSeek+%E2%80%A2+Hermes;%24+creed+%3A+Commit+your+work+to+the+LORD+(Prov.+16%3A3)" alt="Interactive Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=42&lines=%24+initiate_handshake+--target+ethical_hacking;%24+whoami+%3A+Maduabuna+Josiah+(King-Jboy);%24+role+%3A+200L+Cybersecurity+Undergraduate+%F0%9F%9B%A1%EF%B8%8F;%24+systems+%3A+Kali+Linux+%7C+Debian+%7C+Arch+%7C+Ubuntu+%F0%9F%90%A7;%24+agentic+%3A+Claude+Code+%E2%80%A2+Antigravity+IDE+%E2%80%A2+DeepSeek+%E2%80%A2+Hermes;%24+creed+%3A+Commit+your+work+to+the+LORD+(Prov.+16%3A3)" alt="Interactive Typing Subtitle" />
   </a>
 
 </div>
@@ -94,7 +94,7 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 
 <div align="center">
   <a href="https://github.com/King-Jboy">
-    <img src="https://streak-stats.demolab.com/?user=King-Jboy&theme=matrix&border=00ff66&background=050811&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideNums=a7f3d0&sideLabels=a7f3d0&dates=6ee7b7" alt="King-Jboy's Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=King-Jboy&background=000000&border=30363d&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=888888&dates=888888" alt="King-Jboy's Streak Stats" />
   </a>
 </div>
 
@@ -107,12 +107,12 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
     <tr align="center">
       <td>
         <a href="https://github.com/King-Jboy/portfolio">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=King-Jboy&repo=portfolio&border_color=00ff66&bg_color=050811&title_color=00ff66&icon_color=00ff66&text_color=a7f3d0" alt="Portfolio Repository" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=King-Jboy&repo=portfolio&border_color=30363d&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Portfolio Repository" />
         </a>
       </td>
       <td>
         <a href="https://github.com/King-Jboy/kingjboy-claude-code">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=King-Jboy&repo=kingjboy-claude-code&border_color=00ff66&bg_color=050811&title_color=00ff66&icon_color=00ff66&text_color=a7f3d0" alt="Claude Code Fork Repository" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=King-Jboy&repo=kingjboy-claude-code&border_color=30363d&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=8b949e" alt="Claude Code Fork Repository" />
         </a>
       </td>
     </tr>
@@ -144,7 +144,7 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 
   <br />
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=050811&stroke=00ff66&strokeWidth=1&height=65&section=footer&text=%5B%20EOF%20%3A%3A%20CONNECTION%20SECURE%20%3A%3A%20SOLI%20DEO%20GLORIA%20%5D&fontSize=14&fontColor=00ff66&fontAlignY=50" width="100%" alt="Footer Terminal Frame" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=30363d&strokeWidth=1&height=65&section=footer&text=%5B%20EOF%20%3A%3A%20CONNECTION%20SECURE%20%3A%3A%20SOLI%20DEO%20GLORIA%20%5D&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%" alt="Footer Terminal Frame" />
 
   <br />
   <sub>⚡ <em>"The difference between who you are and who you want to be is what you do."</em> &bull; <strong>Soli Deo Gloria</strong></sub>
