@@ -139,12 +139,12 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
     <tr align="center">
       <td>
         <a href="https://github.com/King-Jboy">
-          <img src="https://github-readme-stats.vercel.app/api?username=King-Jboy&show_icons=true&theme=tokyonight&border_color=00F2FE&bg_color=0d1117&title_color=00F2FE&icon_color=10B981&text_color=c9d1d9&hide_border=false" alt="King-Jboy's GitHub Stats" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=King-Jboy&show_icons=true&theme=tokyonight&border_color=00F2FE&bg_color=0d1117&title_color=00F2FE&icon_color=10B981&text_color=c9d1d9&hide_border=false" alt="King-Jboy's GitHub Stats" />
         </a>
       </td>
       <td>
         <a href="https://github.com/King-Jboy">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=King-Jboy&layout=compact&theme=tokyonight&border_color=00F2FE&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=King-Jboy&layout=compact&theme=tokyonight&border_color=00F2FE&bg_color=0d1117&title_color=00F2FE&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -153,7 +153,7 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
   <br />
 
   <a href="https://github.com/King-Jboy">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=King-Jboy&theme=tokyonight&border=00F2FE&background=0d1117&ring=00F2FE&fire=10B981&currStreakLabel=00F2FE&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="King-Jboy's Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=King-Jboy&theme=tokyonight&border=00F2FE&background=0d1117&ring=00F2FE&fire=10B981&currStreakLabel=00F2FE&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="King-Jboy's Streak Stats" />
   </a>
 
 </div>
