@@ -58,11 +58,11 @@ I spend my hours in the Linux shell exploring network protocols, analyzing vulne
 
 | Domain | Focus Area | Current Status | Milestone |
 | :--- | :--- | :--- | :--- |
-| 🐧 **Linux Systems & Shell** | Kernel architecture, permissions, bash automation, system internals | `Advanced` | `[▓▓▓▓▓▓▓▓░░] 80%` |
-| 🛡️ **Network & Reconnaissance** | Nmap, Wireshark, TCP/IP handshakes, packet crafting, port scanning | `In Progress` | `[▓▓▓▓▓▓░░░░] 65%` |
-| 🌐 **Web Security (OWASP)** | Injection flaws, authentication bypass, Burp Suite intercept, XSS | `Active Labs` | `[▓▓▓▓▓░░░░░] 50%` |
-| 🤖 **AI Agent Harnesses** | Antigravity CLI/IDE, Claude Code, DeepSeek agents, prompt architecture | `Practitioner` | `[▓▓▓▓▓▓▓▓░░] 80%` |
-| 💻 **Exploitation & PrivEsc** | Privilege escalation vectors, Linux enumeration, Metasploit, CTFs | `Developing` | `[▓▓▓▓░░░░░░] 40%` |
+| 🐧 **Linux Systems & Shell** | Kernel architecture, permissions, bash automation, system internals | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
+| 🛡️ **Network & Reconnaissance** | Nmap, Wireshark, TCP/IP handshakes, packet crafting, port scanning | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
+| 🌐 **Web Security (OWASP)** | Injection flaws, authentication bypass, Burp Suite intercept, XSS | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
+| 🤖 **AI Agent Harnesses** | Antigravity CLI/IDE, Claude Code, DeepSeek agents, prompt architecture | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
+| 💻 **Exploitation & PrivEsc** | Privilege escalation vectors, Linux enumeration, Metasploit, CTFs | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
 
 ---
 
