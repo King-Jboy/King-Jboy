@@ -140,27 +140,18 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 
 ---
 
-### 🌐 Contribution Activity Visualizers (Pick Your Favorite)
+### 🕹️ Contribution Activity Arcade
 
-#### 1️⃣ The Cyber Contribution Snake
+#### 🟡 Pac-Man Eating The Grid
+<div align="center">
+  <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" width="100%" />
+</div>
+
+<br />
+
+#### 🐍 The Cyber Contribution Snake
 <div align="center">
   <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
-
-<br />
-
-#### 2️⃣ 3D Isometric Contribution Skyline (Cyber City)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/main/profile-3d-contrib/profile-night-green.svg" alt="3D Isometric Contribution Graph" width="100%" />
-</div>
-
-<br />
-
-#### 3️⃣ Activity Radar & Productive Schedule Matrix
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=King-Jboy&theme=github_dark" alt="Commit Profile Details" />
-  <br /><br />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=King-Jboy&theme=github_dark&utcOffset=1" alt="Productive Time Radar" />
 </div>
 
 ---
