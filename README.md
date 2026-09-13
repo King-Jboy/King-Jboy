@@ -142,16 +142,8 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 
 ### 🕹️ Contribution Activity Arcade
 
-#### 🟡 Pac-Man Eating The Grid
 <div align="center">
   <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" width="100%" />
-</div>
-
-<br />
-
-#### 🐍 The Cyber Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
