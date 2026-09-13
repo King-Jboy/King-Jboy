@@ -30,6 +30,12 @@
      `-"""""-'          CREED    : "Commit your work to the Lord" — Proverbs 16:3
 ```
 
+<div align="center">
+
+[🌐 kingjboy.tech](https://kingjboy.tech/) • [✉ maduabunajosiah@gmail.com](mailto:maduabunajosiah@gmail.com) • [🐙 @King-Jboy](https://github.com/King-Jboy)
+
+</div>
+
 ---
 
 ### 🛡️ Mission & Background
@@ -125,27 +131,4 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" width="100%" />
-</div>
-
----
-
-### 📬 Connect & Collaborate
-
-<div align="center">
-  <p>Interested in collaborating on security tools, talking ethical hacking, exploring agentic AI workflows, or sharing advice? Let's connect.</p>
-
-  <p align="center">
-    <a href="https://kingjboy.tech"><b>🌐 kingjboy.tech</b></a>
-    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="mailto:maduabunajosiah@gmail.com"><b>✉ maduabunajosiah@gmail.com</b></a>
-    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="https://github.com/King-Jboy"><b>🐙 @King-Jboy</b></a>
-  </p>
-
-  <br />
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=30363d&strokeWidth=1&height=65&section=footer&text=%5B%20EOF%20%3A%3A%20CONNECTION%20SECURE%20%3A%3A%20SOLI%20DEO%20GLORIA%20%5D&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%" alt="Footer Terminal Frame" />
-
-  <br />
-  <sub>⚡ <em>"The difference between who you are and who you want to be is what you do."</em> &bull; <strong>Soli Deo Gloria</strong></sub>
 </div>
