@@ -151,7 +151,7 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 
 #### 2️⃣ 3D Isometric Contribution Skyline (Cyber City)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/King-Jboy/King-Jboy/main/profile-3d-contrib/profile-night-green.svg" alt="3D Isometric Contribution Graph" width="100%" />
 </div>
 
 <br />
