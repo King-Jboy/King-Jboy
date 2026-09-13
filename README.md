@@ -12,13 +12,17 @@
 
   <br />
 
-  <!-- Hacker Badges Bar -->
+  <!-- Terminal Quick Navigation -->
   <p align="center">
-    <a href="https://kingjboy.tech"><img src="https://img.shields.io/badge/System-kingjboy.tech-00FF66?style=for-the-badge&logo=gnubash&logoColor=050811" alt="Website" /></a>
-    <a href="mailto:maduabunajosiah@gmail.com"><img src="https://img.shields.io/badge/Comms-maduabunajosiah%40gmail.com-00FF66?style=for-the-badge&logo=gmail&logoColor=050811" alt="Email" /></a>
-    <a href="https://github.com/King-Jboy"><img src="https://img.shields.io/badge/Node-King--Jboy-050811?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=050811" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/Access-200L_Cybersecurity-00FF66?style=for-the-badge&logo=hackthebox&logoColor=050811" alt="Access Level" />
-    <img src="https://komarev.com/ghpvc/?username=King-Jboy&color=00FF66&style=for-the-badge&label=LOG_INSPECTIONS" alt="Visitor Count" />
+    <a href="https://kingjboy.tech"><code>[ 🌐 kingjboy.tech ↗ ]</code></a>
+    &nbsp;&bull;&nbsp;
+    <a href="mailto:maduabunajosiah@gmail.com"><code>[ ✉ Direct Comms ↗ ]</code></a>
+    &nbsp;&bull;&nbsp;
+    <a href="https://github.com/King-Jboy"><code>[ ⚡ GitHub Node ↗ ]</code></a>
+    &nbsp;&bull;&nbsp;
+    <code>[ 📍 Nigeria ]</code>
+    &nbsp;&bull;&nbsp;
+    <code>[ 🛡️ Access: 200L Sec ]</code>
   </p>
 
 </div>
@@ -70,52 +74,20 @@ I spend my hours in the Linux shell exploring network protocols, analyzing vulne
 
 ### 🧰 Arsenal & Technical Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ Cybersecurity & Offensive Tools</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Kali_Linux-050811?style=flat-square&logo=kali-linux&logoColor=00FF66" alt="Kali Linux" />
-        <img src="https://img.shields.io/badge/Metasploit-050811?style=flat-square&logo=metasploit&logoColor=00FF66" alt="Metasploit" />
-        <img src="https://img.shields.io/badge/Wireshark-050811?style=flat-square&logo=wireshark&logoColor=00FF66" alt="Wireshark" />
-        <img src="https://img.shields.io/badge/Nmap-050811?style=flat-square&logo=target&logoColor=00FF66" alt="Nmap" />
-        <img src="https://img.shields.io/badge/Burp_Suite-050811?style=flat-square&logo=portswigger&logoColor=00FF66" alt="Burp Suite" />
-        <img src="https://img.shields.io/badge/Bash_Scripting-050811?style=flat-square&logo=gnu-bash&logoColor=00FF66" alt="Bash" />
-      </p>
-      <h4>🐧 Operating Systems & Environments</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Arch_Linux-050811?style=flat-square&logo=arch-linux&logoColor=00FF66" alt="Arch Linux" />
-        <img src="https://img.shields.io/badge/Debian-050811?style=flat-square&logo=debian&logoColor=00FF66" alt="Debian" />
-        <img src="https://img.shields.io/badge/Ubuntu-050811?style=flat-square&logo=ubuntu&logoColor=00FF66" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Git-050811?style=flat-square&logo=git&logoColor=00FF66" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-050811?style=flat-square&logo=github&logoColor=00FF66" alt="GitHub" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI Agent Ecosystem & Harnesses</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Antigravity_IDE%2FCLI-Google_Agentic_Stack-00FF66?style=flat-square&logo=google&logoColor=050811" alt="Antigravity" />
-        <img src="https://img.shields.io/badge/Claude_Code-Anthropic_Agent_CLI-00FF66?style=flat-square&logo=anthropic&logoColor=050811" alt="Claude Code" />
-        <img src="https://img.shields.io/badge/DeepSeek-V3_Harness_Workflows-00FF66?style=flat-square&logo=openai&logoColor=050811" alt="DeepSeek" />
-        <img src="https://img.shields.io/badge/Hermes-Agent_Integration-00FF66?style=flat-square&logo=fastapi&logoColor=050811" alt="Hermes" />
-        <img src="https://img.shields.io/badge/Prompt_Engineering-Optimization-00FF66?style=flat-square&logo=codeforces&logoColor=050811" alt="Prompting" />
-      </p>
-      <h4>💻 Languages & Development</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Python-050811?style=flat-square&logo=python&logoColor=00FF66" alt="Python" />
-        <img src="https://img.shields.io/badge/C-050811?style=flat-square&logo=c&logoColor=00FF66" alt="C" />
-        <img src="https://img.shields.io/badge/JavaScript-050811?style=flat-square&logo=javascript&logoColor=00FF66" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/HTML5-050811?style=flat-square&logo=html5&logoColor=00FF66" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-050811?style=flat-square&logo=css3&logoColor=00FF66" alt="CSS3" />
-        <img src="https://img.shields.io/badge/PowerShell-050811?style=flat-square&logo=powershell&logoColor=00FF66" alt="PowerShell" />
-      </p>
-    </td>
-  </tr>
-</table>
+```bash
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                            OPERATOR ARSENAL & TOOLCHAIN                              ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║  [+] OFFENSIVE LABS  : Kali Linux • Metasploit • Wireshark • Nmap • Burp Suite       ║
+║  [+] AGENT HARNESSES : Claude Code • Antigravity 2.0 • DeepSeek-V3 • Hermes Agent   ║
+║  [+] ENVIRONMENTS    : Debian • Arch Linux • Ubuntu • Bash Shell Scripting           ║
+║  [+] CORE CODE       : Python • C • JavaScript • HTML5 • CSS3 • PowerShell • Git     ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,python,c,git,github,vscode,html,css,js,powershell" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,python,c,git,github,vscode,html,css,js,powershell&theme=dark" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -168,18 +140,22 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🌐 Personal Digital Portfolio</h3>
-      <p>My official digital home and interactive portfolio showcasing my security projects, philosophy, and background.</p>
+      <p>Official digital home, security research publications, and engineering lab portfolio.</p>
+      <br />
       <p>
-        <a href="https://kingjboy.tech"><img src="https://img.shields.io/badge/Live_Site-kingjboy.tech-00FF66?style=flat-square&logo=google-chrome&logoColor=050811" alt="Website" /></a>
-        <a href="https://github.com/King-Jboy"><img src="https://img.shields.io/badge/Source-GitHub-050811?style=flat-square&logo=github&logoColor=00FF66" alt="Source" /></a>
+        <a href="https://kingjboy.tech"><b><code>▶ [ Launch kingjboy.tech ↗ ]</code></b></a>
+        &nbsp;&nbsp;
+        <a href="https://github.com/King-Jboy"><b><code>📂 [ View Source ↗ ]</code></b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🛡️ Offensive & Defense Lab Space</h3>
-      <p>Security analysis labs, hands-on penetration testing scripts, and tooling deep-dives.</p>
+      <p>Practical penetration testing environments, network protocol analysis, and exploit research.</p>
+      <br />
       <p>
-        <img src="https://img.shields.io/badge/Focus-Ethical_Hacking-00FF66?style=flat-square&logo=target&logoColor=050811" alt="Focus" />
-        <img src="https://img.shields.io/badge/Status-Active_Forging-050811?style=flat-square&logoColor=00FF66" alt="Status" />
+        <code><b>[ 🎯 Domain: Ethical Hacking ]</b></code>
+        &nbsp;&nbsp;
+        <code><b>[ ⚡ Status: In Active Labs ]</b></code>
       </p>
     </td>
   </tr>
@@ -200,21 +176,24 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 <div align="center">
   <p>Interested in collaborating on security tools, talking ethical hacking, exploring agentic AI workflows, or sharing advice? Let's connect.</p>
 
-  <a href="https://kingjboy.tech">
-    <img src="https://img.shields.io/badge/Portfolio-kingjboy.tech-00FF66?style=for-the-badge&logo=gnubash&logoColor=050811" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="mailto:maduabunajosiah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-maduabunajosiah%40gmail.com-00FF66?style=for-the-badge&logo=gmail&logoColor=050811" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/King-Jboy">
-    <img src="https://img.shields.io/badge/GitHub-King--Jboy-050811?style=for-the-badge&logo=github&logoColor=00FF66" alt="GitHub" />
-  </a>
+  <p align="center">
+    <a href="https://kingjboy.tech">
+      <code><b>[ 🌐 Launch kingjboy.tech ↗ ]</b></code>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:maduabunajosiah@gmail.com">
+      <code><b>[ ✉ Send Direct Mail ↗ ]</b></code>
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/King-Jboy">
+      <code><b>[ ⚡ Connect on GitHub ↗ ]</b></code>
+    </a>
+  </p>
 
-  <br /><br />
+  <br />
   
   <img src="https://capsule-render.vercel.app/api?type=rect&color=050811&stroke=00ff66&strokeWidth=1&height=65&section=footer&text=%5B%20EOF%20%3A%3A%20CONNECTION%20SECURE%20%3A%3A%20SOLI%20DEO%20GLORIA%20%5D&fontSize=14&fontColor=00ff66&fontAlignY=50" width="100%" alt="Footer Terminal Frame" />
 
+  <br />
   <sub>⚡ <em>"The difference between who you are and who you want to be is what you do."</em> &bull; <strong>Soli Deo Gloria</strong></sub>
 </div>
