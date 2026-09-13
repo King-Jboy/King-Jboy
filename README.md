@@ -10,21 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=42&lines=%24+initiate_handshake+--target+ethical_hacking;%24+whoami+%3A+Maduabuna+Josiah+(King-Jboy);%24+role+%3A+200L+Cybersecurity+Undergraduate+%F0%9F%9B%A1%EF%B8%8F;%24+systems+%3A+Kali+Linux+%7C+Debian+%7C+Arch+%7C+Ubuntu+%F0%9F%90%A7;%24+agentic+%3A+Claude+Code+%E2%80%A2+Antigravity+IDE+%E2%80%A2+DeepSeek+%E2%80%A2+Hermes;%24+creed+%3A+Commit+your+work+to+the+LORD+(Prov.+16%3A3)" alt="Interactive Typing Subtitle" />
   </a>
 
-  <br />
-
-  <!-- Terminal Quick Navigation -->
-  <p align="center">
-    <a href="https://kingjboy.tech"><code>[ 🌐 kingjboy.tech ↗ ]</code></a>
-    &nbsp;&bull;&nbsp;
-    <a href="mailto:maduabunajosiah@gmail.com"><code>[ ✉ Direct Comms ↗ ]</code></a>
-    &nbsp;&bull;&nbsp;
-    <a href="https://github.com/King-Jboy"><code>[ ⚡ GitHub Node ↗ ]</code></a>
-    &nbsp;&bull;&nbsp;
-    <code>[ 📍 Nigeria ]</code>
-    &nbsp;&bull;&nbsp;
-    <code>[ 🛡️ Access: 200L Sec ]</code>
-  </p>
-
 </div>
 
 ---
@@ -134,32 +119,24 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 
 ---
 
-### 🚀 Highlighted Repositories & Work
+### 🚀 Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🌐 Personal Digital Portfolio</h3>
-      <p>Official digital home, security research publications, and engineering lab portfolio.</p>
-      <br />
-      <p>
-        <a href="https://kingjboy.tech"><b><code>▶ [ Launch kingjboy.tech ↗ ]</code></b></a>
-        &nbsp;&nbsp;
-        <a href="https://github.com/King-Jboy"><b><code>📂 [ View Source ↗ ]</code></b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🛡️ Offensive & Defense Lab Space</h3>
-      <p>Practical penetration testing environments, network protocol analysis, and exploit research.</p>
-      <br />
-      <p>
-        <code><b>[ 🎯 Domain: Ethical Hacking ]</b></code>
-        &nbsp;&nbsp;
-        <code><b>[ ⚡ Status: In Active Labs ]</b></code>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="6">
+    <tr align="center">
+      <td>
+        <a href="https://github.com/King-Jboy/portfolio">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=King-Jboy&repo=portfolio&border_color=00ff66&bg_color=050811&title_color=00ff66&icon_color=00ff66&text_color=a7f3d0" alt="Portfolio Repository" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/King-Jboy/kingjboy-claude-code">
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=King-Jboy&repo=kingjboy-claude-code&border_color=00ff66&bg_color=050811&title_color=00ff66&icon_color=00ff66&text_color=a7f3d0" alt="Claude Code Fork Repository" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -177,17 +154,11 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
   <p>Interested in collaborating on security tools, talking ethical hacking, exploring agentic AI workflows, or sharing advice? Let's connect.</p>
 
   <p align="center">
-    <a href="https://kingjboy.tech">
-      <code><b>[ 🌐 Launch kingjboy.tech ↗ ]</b></code>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:maduabunajosiah@gmail.com">
-      <code><b>[ ✉ Send Direct Mail ↗ ]</b></code>
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/King-Jboy">
-      <code><b>[ ⚡ Connect on GitHub ↗ ]</b></code>
-    </a>
+    <a href="https://kingjboy.tech"><b>🌐 kingjboy.tech</b></a>
+    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="mailto:maduabunajosiah@gmail.com"><b>✉ maduabunajosiah@gmail.com</b></a>
+    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="https://github.com/King-Jboy"><b>🐙 @King-Jboy</b></a>
   </p>
 
   <br />
