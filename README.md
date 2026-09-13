@@ -93,28 +93,9 @@ This profile is the living proof of that evolution. **Expect top-tier repositori
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
-
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr align="center">
-      <td>
-        <a href="https://github.com/King-Jboy">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=King-Jboy&show_icons=true&bg_color=050811&border_color=00ff66&title_color=00ff66&icon_color=00ff66&text_color=a7f3d0&hide_border=false" alt="King-Jboy's GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/King-Jboy">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=King-Jboy&layout=compact&bg_color=050811&border_color=00ff66&title_color=00ff66&text_color=a7f3d0&hide_border=false" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
   <a href="https://github.com/King-Jboy">
     <img src="https://streak-stats.demolab.com/?user=King-Jboy&theme=matrix&border=00ff66&background=050811&ring=00ff66&fire=00ff66&currStreakLabel=00ff66&sideNums=a7f3d0&sideLabels=a7f3d0&dates=6ee7b7" alt="King-Jboy's Streak Stats" />
   </a>
-
 </div>
 
 ---
