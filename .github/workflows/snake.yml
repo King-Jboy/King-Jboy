@@ -27,6 +27,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300F2FE&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
 
+      - name: Fix dist permissions
+        run: sudo chown -R $USER:$USER dist
+
       - name: Generate Pacman SVG
         uses: abozanona/pacman-contribution-graph@main
         with:
