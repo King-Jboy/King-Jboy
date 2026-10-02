@@ -51,39 +51,6 @@ I spend my hours in the Linux shell exploring network protocols, analyzing vulne
 
 ---
 
-### 📈 Practical Learning & Mastery Roadmap
-
-| Domain | Focus Area | Current Status | Milestone |
-| :--- | :--- | :--- | :--- |
-| 🐧 **Linux Systems & Shell** | Kernel architecture, permissions, bash automation, system internals | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
-| 🛡️ **Network & Reconnaissance** | Nmap, Wireshark, TCP/IP handshakes, packet crafting, port scanning | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
-| 🌐 **Web Security (OWASP)** | Injection flaws, authentication bypass, Burp Suite intercept, XSS | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
-| 🤖 **AI Agent Harnesses** | Antigravity CLI/IDE, Claude Code, DeepSeek agents, prompt architecture | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
-| 💻 **Exploitation & PrivEsc** | Privilege escalation vectors, Linux enumeration, Metasploit, CTFs | `In Progress` | `[▓▓▓▓░░░░░░] 40%` |
-
----
-
-### 🧰 Arsenal & Technical Stack
-
-```bash
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                            OPERATOR ARSENAL & TOOLCHAIN                              ║
-╠══════════════════════════════════════════════════════════════════════════════════════╣
-║  [+] OFFENSIVE LABS  : Kali Linux • Metasploit • Wireshark • Nmap • Burp Suite       ║
-║  [+] AGENT HARNESSES : Claude Code • Antigravity 2.0 • DeepSeek-V3 • Hermes Agent   ║
-║  [+] ENVIRONMENTS    : Debian • Arch Linux • Ubuntu • Bash Shell Scripting           ║
-║  [+] CORE CODE       : Python • C • JavaScript • HTML5 • CSS3 • PowerShell • Git     ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,python,c,git,github,vscode,html,css,js,powershell&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</div>
-
----
-
 ### 🧭 The Crucible & Creed
 
 > *"Commit your work to the Lord, and your plans will be established."* — **Proverbs 16:3**
